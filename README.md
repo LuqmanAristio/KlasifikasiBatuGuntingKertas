@@ -1,4 +1,4 @@
-# Klasifikasi Batu Gunting Kertas
+# Rock Papper Scissors Classification ML Model
 
 Model machine learning ini bertujuan untuk membuat klasifikasi batu gunting kertas dari dataset gambar yang ada. Kemudian model dapat memprediksi hasil input gambar sesuai dengan ketiga label tersebut.
 
