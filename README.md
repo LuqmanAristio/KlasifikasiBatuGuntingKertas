@@ -3,7 +3,10 @@
 Model machine learning ini bertujuan untuk membuat klasifikasi batu gunting kertas dari dataset gambar yang ada. Kemudian model dapat memprediksi hasil input gambar sesuai dengan ketiga label tersebut.
 
 ## Dataset
-Dataset yang digunakan merupakan sekumpulan gambar hasil foto tangan ketika berpose batu gunting kertas dengan latar belakang hijau. Terdapat 3 label atau kelas dalam dataset yakni batu, gunting dan kertas. Jumlah keseluruhan dataset yakni sebesar 2188 sampel dengan pembagian data train dan test berasio 6 : 4
+Dataset yang digunakan merupakan sekumpulan gambar hasil foto tangan ketika berpose batu gunting kertas dengan latar belakang hijau. Terdapat 3 label atau kelas dalam dataset yakni batu, gunting dan kertas. Jumlah keseluruhan dataset yakni sebesar 2188 sampel dengan pembagian data train dan test berasio 6 : 4.
+
+Dataset dapat diunduh pada tautan berikut ini :
+https://drive.google.com/file/d/1n2JwVZ2Qs0odUB5j_T8usXj-f2V3Orht/view?usp=sharing
 
 ## Metode
 Model ini dikembangkan menggunakan salah satu metode yang cukup populer digunakan dalam jaringan syaraf tiruan yakni **Convolutional Neural Network**. Metode ini dipilih karena merupakan salah satu dari sekian metode yang powerfull ketika diterapkan dengan menggunakan dataset gambar atau citra. Secara garis besar terdapat 3 layer utama dalam CNN yakni :
