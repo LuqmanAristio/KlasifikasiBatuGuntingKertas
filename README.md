@@ -1,5 +1,7 @@
 # Rock Papper Scissors Classification ML Model
 
+![download](https://user-images.githubusercontent.com/96041357/191999219-fb22bf7d-cc3d-40d2-bb2b-2fb151e307bb.png)
+
 Model machine learning ini bertujuan untuk membuat klasifikasi batu gunting kertas dari dataset gambar yang ada. Kemudian model dapat memprediksi hasil input gambar sesuai dengan ketiga label tersebut.
 
 ## Dataset
