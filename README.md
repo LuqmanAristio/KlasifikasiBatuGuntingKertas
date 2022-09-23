@@ -1,4 +1,4 @@
-# KlasifikasiBatuGuntingKertas
+# Klasifikasi Batu Gunting Kertas
 
 Model machine learning ini bertujuan untuk membuat klasifikasi batu gunting kertas dari dataset gambar yang ada. Kemudian model dapat memprediksi hasil input gambar sesuai dengan ketiga label tersebut.
 
